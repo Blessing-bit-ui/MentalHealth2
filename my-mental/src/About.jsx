@@ -14,7 +14,6 @@ function About() {
       <section>
         <h2> Why Mental Health matters</h2>
         <p>
-          {" "}
           Mental health is important at every stage of Life, from childhood and
           adolescense through adulthood.Good mental health strengthens our
           ability to cope with daily challenges and build meaningful
