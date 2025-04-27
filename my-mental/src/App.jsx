@@ -12,6 +12,7 @@ function App() {
         <Link to="/" className="text-blue-600 hover:underline">Home</Link>
         <Link to="/about" className="text-green-600 hover:underline">About</Link>
         <Link to="/resources" className="text-purple-600 hover:underline">Resources</Link>
+        <Link to="/support" classN
       </nav>
 
       <Routes>
