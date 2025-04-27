@@ -8,8 +8,7 @@ import MyStory from './MyStory'
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom'
 
 function App() {
-  return (
-    
+  return (  
     <Router>
       <nav className="bg-gray-100 p-4 flex gap-6 shadow-md">
         <Link to="/" className="text-blue-600 hover:underline">Home</Link>
